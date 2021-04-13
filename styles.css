@@ -9,7 +9,7 @@ body {
   grid-template-rows: auto 1fr auto;
   justify-items: center;
   min-height: 100vh;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .header {
@@ -611,6 +611,6 @@ label {
     display: block;
     left: 0;
     width: 100vw;
-    height: 70vh;
+    height: 72vh;
   }
 }
